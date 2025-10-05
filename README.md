@@ -50,9 +50,15 @@
 ---
 ## ⚡ Objetivos ou metas:
 
-- ✨ Meu objetivo é **aprender continuamente**, pois gosto de saber um pouco de tudo principalmente seu funcionamento.
-- 🌱 Tenho como meta a construção de projetos que reflitam minha evolução ao lado dos meus gostos pessoais.
-- 🔭 Quero buscar oportunidades que me preparem para o mercado de tecnologia.
+- ✨ Aprender continuamente, explorando diferentes áreas da computação e entendendo o funcionamento por trás das tecnologias.  
+- 🌱 Desenvolver projetos práticos que demonstrem minha evolução e apliquem conceitos aprendidos em sala de aula e estudos pessoais.  
+- 🔭 Buscar oportunidades que me preparem para o mercado de tecnologia, atuando em projetos reais e desafiadores.  
+- 🤝 Colaborar em projetos open source e acadêmicos para ganhar experiência em trabalho em equipe e boas práticas de desenvolvimento.  
+- 📚 Aprimorar minhas habilidades em **estruturas de dados, algoritmos e programação orientada a objetos**, que são a base para qualquer área da computação.  
+- 🛠️ Expandir meu conhecimento em ferramentas modernas de desenvolvimento (Git, GitHub, metodologias ágeis, DevOps).  
+- 🌍 Construir soluções que possam impactar positivamente pessoas e comunidades.  
+- 🚀 Desenvolver um portfólio consistente que reflita meu crescimento e minhas áreas de interesse, servindo como vitrine para estágio e carreira.
+
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Reb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
