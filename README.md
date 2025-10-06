@@ -54,10 +54,9 @@
 - 🌱 Desenvolver projetos práticos que demonstrem minha evolução e apliquem conceitos aprendidos em sala de aula e estudos pessoais.  
 - 🔭 Buscar oportunidades que me preparem para o mercado de tecnologia, atuando em projetos reais e desafiadores.  
 - 🤝 Colaborar em projetos open source e acadêmicos para ganhar experiência em trabalho em equipe e boas práticas de desenvolvimento.  
-- 📚 Aprimorar minhas habilidades em **estruturas de dados, algoritmos e programação orientada a objetos**, que são a base para qualquer área da computação.  
-- 🛠️ Expandir meu conhecimento em ferramentas modernas de desenvolvimento (Git, GitHub, metodologias ágeis, DevOps).  
+- 📚 Aprimorar minhas habilidades em **estruturas de dados, algoritmos e programação orientada a objetos**.  
+- 🛠️ Expandir meu conhecimento em ferramentas modernas de desenvolvimento (Git, GitHub, metodologias ágeis, DevOps, etc).  
 - 🌍 Construir soluções que possam impactar positivamente pessoas e comunidades.  
-- 🚀 Desenvolver um portfólio consistente que reflita meu crescimento e minhas áreas de interesse, servindo como vitrine para estágio e carreira.
 
 
 <div style="display: inline_block"><br>
