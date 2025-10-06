@@ -18,7 +18,7 @@
 ## 📂 Projetos em Destaque
 🌟 Uma seleção dos repositórios que mostram minha evolução:
 
-- [📘 Estruturas de Dados em Java](https://github.com/rebecasena98o/estruturas-de-dados-em-java)
+- [📘 Estruturas de Dados em Java](https://github.com/rebecasena98o/estruturas-de-dados-java)
     
   Implementações de pilha, fila e listas.
 
