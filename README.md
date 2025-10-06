@@ -22,7 +22,7 @@
     
   Implementações de pilha, fila e listas.
 
-- [📘 Exercícios do Beecrowd](https://github.com/rebecasena98o/exercícios-beecrowd)
+- [📘 Exercícios do Beecrowd](https://github.com/rebecasena98o/exercicios-beecrowd)
   
   Implementações em JavaScript, Java, Python e C. 
 
