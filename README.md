@@ -34,7 +34,7 @@
   
   Projeto da faculdade.
   
-- [🎮 Jogo Lina Dreams Godot](https://github.com/rebecasena98o/jogo-lina-dreams)
+- [🎮 Jogo Lina Dreams Godot](https://github.com/rebecasena98o/jogo-lina-dreams-godot)
   
   Projeto da faculdade (futuramente será aprimorado).
   
