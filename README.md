@@ -58,6 +58,17 @@
 - 🛠️ Expandir meu conhecimento em ferramentas modernas de desenvolvimento (Git, GitHub, metodologias ágeis, DevOps, etc).  
 - 🌍 Construir soluções que possam impactar positivamente pessoas e comunidades.  
 
+---
+<div align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rebecasena98o&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecasena98o&layout=compact&theme=dracula&langs_count=5" height="150" alt="languages graph" />
+</div>
+
+</div>
+
+---
+
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Reb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
