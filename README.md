@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔧 Tecnologias e Ferramentas
-- **Linguagens:** Java, Python, JavaScript e C  
+- **Linguagens:** Java, Python, JavaScript e C++  
 - **Versionamento:** Git & GitHub  
 - **Web:** HTML, CSS, JS  
 - **IDE/Editor:** VS Code e IntelliJ  
