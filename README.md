@@ -5,7 +5,7 @@
 💼 Buscando constante evolução e aplicando o que aprendo em projetos práticos.  
 📚 Este espaço reúne meus **estudos acadêmicos** e meus futuros projetos.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔧 Tecnologias e Ferramentas
 - **Linguagens:** Java, Python, JavaScript e C  
@@ -13,7 +13,7 @@
 - **Web:** HTML, CSS, JS  
 - **IDE/Editor:** VS Code e IntelliJ  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📂 Projetos em Destaque
 🌟 Uma seleção dos repositórios que mostram minha evolução:
@@ -38,7 +38,7 @@
   
   Projeto da faculdade (futuramente será aprimorado).
   
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌍 Onde me encontrar
 
@@ -46,8 +46,8 @@
 
 - 📧 Email: **r3b3casena@gmail.com**
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 ## ⚡ Objetivos ou metas:
 
 - ✨ Aprender continuamente, explorando diferentes áreas da computação e entendendo o funcionamento por trás das tecnologias.  
@@ -58,7 +58,7 @@
 - 🛠️ Expandir meu conhecimento em ferramentas modernas de desenvolvimento (Git, GitHub, metodologias ágeis, DevOps, etc).  
 - 🌍 Construir soluções que possam impactar positivamente pessoas e comunidades.  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rebecasena98o&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
@@ -67,7 +67,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <div style="display: inline_block"><br>
