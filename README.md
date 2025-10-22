@@ -42,7 +42,7 @@
 
 ## 🌍 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/rebeca-sena-3a5b9a371)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/rebeca-sena-3a5b9a371))
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:*r3b3casena@gmail.com)
 
 
