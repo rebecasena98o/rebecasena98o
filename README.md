@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Rebeca Sena! mas pode me chamar de Beca 😄
 
 # 🔭 Sou:
-🎓 Estudante de Ciência da Computação pela UNIFOR, entusiasta da programação, com foco em **[Java | Python | Estruturas de Dados | Desenvolvimento Web]**.  
+🎓 Estudante de Ciência da Computação pela UNIFOR, entusiasta da programação, com foco em **[Java | Python | Game development | Desenvolvimento Web | JavaScript]**.  
 💼 Buscando constante evolução e aplicando o que aprendo em projetos práticos.  
 📚 Este espaço reúne meus **estudos acadêmicos** e meus futuros projetos.
 
