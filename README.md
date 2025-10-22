@@ -43,7 +43,7 @@
 ## 🌍 Onde me encontrar
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/rebeca-sena-3a5b9a371/]">
+  <a href="https://www.linkedin.com/in/rebeca-sena-3a5b9a371" target="_blank">
     <img 
       alt="Linkedin" 
       title="Acesse meu Linkedin" 
