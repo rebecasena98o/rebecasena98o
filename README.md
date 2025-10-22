@@ -3,7 +3,7 @@
 # 🔭 Sou:
 🎓 Estudante de Ciência da Computação pela UNIFOR, entusiasta da programação, com foco em **[Java | Python | Game development | Desenvolvimento Web | JavaScript]**.  
 💼 Buscando constante evolução e aplicando o que aprendo em projetos práticos.  
-📚 Este espaço reúne meus **estudos acadêmicos** e meus futuros projetos.
+📚 Este espaço reúne meus **estudos acadêmicos** e meus futuros projetos pessoais.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -42,9 +42,9 @@
 
 ## 🌍 Onde me encontrar
 
-- 💼 [LinkedIn](www.linkedin.com/in/rebeca-sena-3a5b9a371) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/rebeca-sena-3a5b9a371)) 
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:*r3b3casena@gmail.com)
 
-- 📧 Email: **r3b3casena@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
