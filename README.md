@@ -50,7 +50,7 @@
       src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"
     />
   </a>
-  <a href="mailto:*r3b3casena@gmail.com">
+  <a href="mailto:r3b3casena@gmail.com">
     <img
       alt="Email"
       title="Me envie um email"
@@ -69,16 +69,25 @@
 - 🤝 Colaborar em projetos open source e acadêmicos para ganhar experiência em trabalho em equipe e boas práticas de desenvolvimento.  
 - 📚 Aprimorar minhas habilidades em **estruturas de dados, algoritmos e programação orientada a objetos**.  
 - 🛠️ Expandir meu conhecimento em ferramentas modernas de desenvolvimento (Git, GitHub, metodologias ágeis, DevOps, etc).  
-- 🌍 Construir soluções que possam impactar positivamente pessoas e comunidades.  
+- 🌍 Construir soluções que possam impactar positivamente pessoas e comunidades.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rebecasena98o&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecasena98o&layout=compact&theme=dracula&langs_count=5" height="150" alt="languages graph" />
-</div>
+
+<div align="center" style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 20px; box-shadow: 0 0 10px #00ffff;">
+
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rebecasena98o&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" /> -->
+
+ <img src="https://github-readme-stats.vercel.app/api?username=rebecasena98o&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ffff&icon_color=00ffff" width="48%" />
+    
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecasena98o&layout=compact&theme=tokyonigh&langs_count=5" height="150" alt="languages graph" /> -->
+
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=rebecasena98o&theme=tokyonight&hide_border=true&background=00000000&stroke=00ffff&ring=00ffff&fire=00ffff" width="48%" />
 
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecasena98o&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffff" width="36%" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -89,9 +98,10 @@
 <img align="center" alt="Reb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Reb-CSS" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Reb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Reb-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" >
-<img align="center" alt="Reb-Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"   
-<img align="center" alt="Reb-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /svg>
+<img align="center" alt="Reb-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="center" alt="Reb-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img align="center" alt="Reb-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+
 </div>
 
 
