@@ -22,15 +22,15 @@
     
   Implementações de pilha, fila e listas.
 
-- [📝 TCC mobile]([https://github.com/rebecasena98o/TCC-mobile-app-chat)
+- [📝 TCC mobile](https://github.com/rebecasena98o/TCC-mobile-app-chat)
   
   Aplicativo para correção e agendamento de TCC.
 
-- [🎮 Jogo da Forca em Python]([https://github.com/rebecasena98o/jogo-da-forca-python)
+- [🎮 Jogo da Forca em Python](https://github.com/rebecasena98o/jogo-da-forca-python)
     
   Projeto em equipe do GEIA (grupo de estudo focado em programação e IA).
 
-- [⚙️ Backend Python]([https://github.com/rebecasena98o/estudos-backend-python)
+- [⚙️ Backend Python](https://github.com/rebecasena98o/estudos-backend-python)
   
   Projeto focado no bootcamp da DIO
   
