@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔧 Tecnologias e Ferramentas
-- **Linguagens:** Java, Python, JavaScript, C++ e Kotlin 
+- **Linguagens:** Java, Python, JavaScript, C++, Kotlin, HTML e CSS 
 - **Versionamento:** Git & GitHub  
 - **Web:** HTML, CSS, JS  
 - **IDE/Editor:** VS Code e IntelliJ  
@@ -22,17 +22,17 @@
     
   Implementações de pilha, fila e listas.
 
-- [📘 Exercícios do Beecrowd](https://github.com/rebecasena98o/exercicios-beecrowd)
+- [📝 TCC mobile]([https://github.com/rebecasena98o/TCC-mobile-app-chat)
   
-  Implementações em JavaScript, Java, Python e C. 
+  Aplicativo para correção e agendamento de TCC.
 
-- [🎮 Jogo da Forca em Python](https://github.com/rebecasena98o/jogo-da-forca-python)
+- [🎮 Jogo da Forca em Python]([https://github.com/rebecasena98o/jogo-da-forca-python)
     
   Projeto em equipe do GEIA (grupo de estudo focado em programação e IA).
 
-- [🎮 Jogo Freeway Godot](https://github.com/rebecasena98o/jogo-freeway)
+- [⚙️ Backend Python]([https://github.com/rebecasena98o/estudos-backend-python)
   
-  Projeto da faculdade.
+  Projeto focado no bootcamp da DIO
   
 - [🎮 Jogo Lina Dreams Godot](https://github.com/rebecasena98o/jogo-lina-dreams-godot)
   
@@ -67,7 +67,7 @@
 - 🌱 Desenvolver projetos práticos que demonstrem minha evolução e apliquem conceitos aprendidos em sala de aula e estudos pessoais.  
 - 🔭 Buscar oportunidades que me preparem para o mercado de tecnologia, atuando em projetos reais e desafiadores.  
 - 🤝 Colaborar em projetos open source e acadêmicos para ganhar experiência em trabalho em equipe e boas práticas de desenvolvimento.  
-- 📚 Aprimorar minhas habilidades em **estruturas de dados, algoritmos e programação orientada a objetos**.  
+- 📚 Aprimorar minhas habilidades em **estruturas de dados, lógica de programação e programação orientada a objetos**.  
 - 🛠️ Expandir meu conhecimento em ferramentas modernas de desenvolvimento (Git, GitHub, metodologias ágeis, DevOps, etc).  
 - 🌍 Construir soluções que possam impactar positivamente pessoas e comunidades.
 
